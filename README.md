@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghassan Qandeel</h1>
 <h3 align="center">Computer Engineer from Palstine .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassanqandeel&label=Profile%20views&color=0e75b6&style=flat" alt="ghassanqandeel" /> </p>
-
 - 💬 Ask me about **Flask Python , AI , Network Design .**
 
 - 📫 How to reach me **gassanqandil00@gmail.com**
