@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghassan Qandeel</h1>
-<h3 align="center">Computer Engineer from Palstine .</h3>
+<h3 align="center">Computer Engineer from Palestine .</h3>
 
 - 💬 Ask me about **Flask Python , AI , Network Design .**
 
