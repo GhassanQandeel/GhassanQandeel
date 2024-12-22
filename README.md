@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghassan Qandeel</h1>
 <h3 align="center">Computer Engineer from Palestine .</h3>
 
-- 💬 Ask me about **Flask Python , AI , Network Design .**
+- 💬 Ask me about **Flask Python , AI , Network Design ,Spring Boot ,DataBase  .**
 
 - 📫 How to reach me **gassanqandil00@gmail.com**
 
