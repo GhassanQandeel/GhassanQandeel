@@ -13,8 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ghassan-qandeel-8757b634b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ghassan-qandeel-8757b634b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/gassa3qandil00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gassa3qandil00" height="30" width="40" /></a>
-<a href="https://fb.com/https://ar-ar.facebook.com/ghassan.qandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://ar-ar.facebook.com/ghassan.qandeel" height="30" width="40" /></a>
+<a href="https://kaggle.com/gassa3qandil00" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gassa3qandil00" height="30" width="40" /></a>
+<a href="https://fb.com/ghassan.qandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://ar-ar.facebook.com/ghassan.qandeel" height="30" width="40" /></a>
 <a href="https://instagram.com/abu_gaith_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu_gaith_44" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghassanqandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghassanqandeel" height="30" width="40" /></a>
 </p>
