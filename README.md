@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghassan Qandeel</h1>
 <h3 align="center">Computer Engineer|Back-End Developer |Learning generative ai .</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassanqandeel" alt="ghassanqandeel" /></a> </p>
 
 - 🌱 I’m currently learning **Agentic AI.**
 
