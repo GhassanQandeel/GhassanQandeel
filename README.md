@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gassanqandil00@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1ulsZG6Z9HXFzQV2aTSu9PLboQhjmC_Q6/view?usp=drive_link](https://drive.google.com/file/d/1C2rmfzDG8JtSJrs5G6y4q_oqu4Dd3QVE/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1ulsZG6Z9HXFzQV2aTSu9PLboQhjmC_Q6/view?usp=drive_link](https://drive.google.com/file/d/1C2rmfzDG8JtSJrs5G6y4q_oqu4Dd3QVE/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
